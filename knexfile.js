@@ -3,7 +3,9 @@ const sharedConfig = {
   migrations: {
     directory: './data/migrations'
   },
-  seeds: { filename: './data/seeds' },
+  seeds: { 
+    directory: './data/seeds' 
+  },
   // sqlite3
   useNullAsDefault: true,
   pool: {

@@ -14,15 +14,15 @@ const ingredients = [
 ]
 
 const steps = [
-  { ingredient_name: 'step 1', step_number: 1, recipe_id: 1 },
-  { ingredient_name: 'step 2', step_number: 2, recipe_id: 1 },
-  { ingredient_name: 'step 3', step_number: 3, recipe_id: 1 },
-  { ingredient_name: 'step 1', step_number: 1, recipe_id: 2 },
-  { ingredient_name: 'step 2', step_number: 2, recipe_id: 2 },
-  { ingredient_name: 'step 3', step_number: 3, recipe_id: 2 },
-  { ingredient_name: 'step 1', step_number: 1, recipe_id: 3 },
-  { ingredient_name: 'step 2', step_number: 2, recipe_id: 3 },
-  { ingredient_name: 'step 3', step_number: 3, recipe_id: 3 },
+  { step_text: 'step 1', step_number: 1, recipe_id: 1 },
+  { step_text: 'step 2', step_number: 2, recipe_id: 1 },
+  { step_text: 'step 3', step_number: 3, recipe_id: 1 },
+  { step_text: 'step 1', step_number: 1, recipe_id: 2 },
+  { step_text: 'step 2', step_number: 2, recipe_id: 2 },
+  { step_text: 'step 3', step_number: 3, recipe_id: 2 },
+  { step_text: 'step 1', step_number: 1, recipe_id: 3 },
+  { step_text: 'step 2', step_number: 2, recipe_id: 3 },
+  { step_text: 'step 3', step_number: 3, recipe_id: 3 },
 ]
 
 const step_ingredients = [
